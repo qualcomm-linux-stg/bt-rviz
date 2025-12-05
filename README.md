@@ -139,7 +139,6 @@ If you wish to contribute, check:
 
 * [Report an Issue on GitHub](../../issues)
 * [E-mail us](mailto:ssarana@qti.qualcomm.com) for general questions
-
 ## License
 
 *bt-rviz* is licensed under the [BSD-3-clause License](https://spdx.org/licenses/BSD-3-Clause.html). See [LICENSE.txt](LICENSE.txt) for the full license text.
